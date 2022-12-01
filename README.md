@@ -15,5 +15,5 @@ The process of fine-turning the model and evaluation result is saved in the .ipy
 
 The .ipynb file can be runned once the fine-turned model directory is adjusted. 
 
-- sciBERT fine-turned model: [google drive link](https://drive.google.com/drive/folders/1-7AmS914ULR3soSEueRN4pEj6dcmcnri?usp=sharing )
+- sciBERT fine-turned model: [google drive link](https://drive.google.com/drive/folders/1-7AmS914ULR3soSEueRN4pEj6dcmcnri?usp=sharing)
 - roBERTa fine-turned model: [google drive link](https://drive.google.com/drive/folders/1-AP3leOkgQoG1pcBp7t2CHsQyTg697Dg?usp=sharing)
