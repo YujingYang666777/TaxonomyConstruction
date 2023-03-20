@@ -2,7 +2,7 @@
 
 This is the course project of COMP 599 Natural Language Understanding with Deep Learning.
 
-Group member: Kua Chen, Yujing Yang
+Group member: No one yet
 
 ## Approach
 
